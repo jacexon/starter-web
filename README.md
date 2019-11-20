@@ -13,3 +13,6 @@ My purpose is to learn git.
 Deployment can be made on any server.
 
 ## How To Contribute
+
+## Copyright
+2019 Jacaa
