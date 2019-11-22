@@ -18,4 +18,4 @@ Deployment can be made on any server.
 Please fork this repository
 
 ## Copyright
-2019 Jacaa
+2019 Jacaa. All ight reservced~!!!
