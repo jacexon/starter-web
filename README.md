@@ -14,5 +14,7 @@ Deployment can be made on any server.
 
 ## How To Contribute
 
+Please fork this repository
+
 ## Copyright
 2019 Jacaa
